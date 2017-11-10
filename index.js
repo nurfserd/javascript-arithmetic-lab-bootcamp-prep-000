@@ -1,1 +1,1 @@
-console.log(parseFloat('2.2222', 10))
+console.log(parseFloat('nonsense', 10))
